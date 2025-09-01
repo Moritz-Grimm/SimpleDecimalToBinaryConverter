@@ -1,4 +1,4 @@
-# Decimal to Binary Converter
+# simple-decimal-to-binary-converter
 
 A simple Java console application that converts decimal numbers to their 32-bit binary representation.
 
